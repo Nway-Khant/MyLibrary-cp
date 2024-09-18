@@ -8,6 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
       Grammar: ["lesson.html", "recording.html", "quiz.html"],
       Sangaha: ["သင်္ဂြိုဟ်.html", "ညဝါ.html", "recording.html", "quiz.html"],
       Readings: ["lesson.html", "recording.html", "quiz.html"],
+      Vinaya: ["lesson.html", "recording.html"]
     },
     သီလက္ခန်: {
       book2a: ["lesson.html", "recording.html", "quiz.html"],
@@ -101,7 +102,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "projectName.html",
         "projectRecording.html",
         "projectQuiz.html",
-      ],
+      ]
     },
   };
 
